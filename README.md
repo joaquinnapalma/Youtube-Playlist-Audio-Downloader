@@ -51,3 +51,7 @@ Tutorial Español:
 5) abrir consola (terminal) y teclear "youtubeaudiodownloader.bash" SIN sudo
 6) seleccionar opción, enter, pegar link, enter
 
+para actualizar:
+
+sudo pip install -U youtube-dl
+
