@@ -23,7 +23,7 @@ sudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtub
 sudo chmod a+rx /usr/local/bin/youtube-dl
 
 -------------------------------------------------------------------------------------------
-                                                                 (thanks https://github.com/ytdl-org/youtube-dl)
+                                                     (thanks https://github.com/ytdl-org/youtube-dl)
 
 
 Tutorial:
