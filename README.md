@@ -26,7 +26,7 @@ sudo chmod a+rx /usr/local/bin/youtube-dl
                                                      (thanks https://github.com/ytdl-org/youtube-dl)
 
 
-Tutorial:
+Tutorial English:
 
 1) sudo git clone https://github.com/joaquinnapalma/Youtube-Playlist-Audio-Downloader
 2) cd Youtube-Playlist-Audio-Downloader/
@@ -39,4 +39,15 @@ Tutorial:
 to upgrade:
 
 sudo pip install -U youtube-dl
+
+------------------------------------------------------------------------------------------
+
+Tutorial Español:
+
+1) sudo git clone https://github.com/joaquinnapalma/Youtube-Playlist-Audio-Downloader
+2) cd Youtube-Playlist-Audio-Downloader/
+3) sudo chmod a+x youtubeaudiodownloader.bash
+4) mover el script a /usr/local/bin ( $ mv youtubeaudiodownloader.bash /usr/local/bin )
+5) abrir consola (terminal) y teclear "youtubeaudiodownloader.bash" SIN sudo
+6) seleccionar opción, enter, pegar link, enter
 
